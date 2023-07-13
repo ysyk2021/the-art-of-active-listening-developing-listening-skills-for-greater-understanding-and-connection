@@ -1,0 +1,15 @@
+{
+    "name": "the-art-of-active-listening-developing-listening-skills-for-greater-understanding-and-connection-at-work",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
