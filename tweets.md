@@ -8,5 +8,3 @@
 8. Are you struggling to connect with your colleagues at work? "The Art of Active Listening" can help! Learn how to listen actively and build stronger relationships with your team. #WorkplaceConnections
 9. Effective communication starts with active listening. Get your hands on "The Art of Active Listening" and discover how to become a better listener for greater understanding and connection in the workplace. #CommunicationSkills
 10. Want to be a better communicator? Start by improving your listening skills with "The Art of Active Listening". Learn how to actively listen and build stronger connections with your coworkers for a more successful career. #CareerGrowth
-
-
