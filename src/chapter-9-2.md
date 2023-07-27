@@ -54,5 +54,3 @@ The Journey Continues
 Becoming a master of active listening is an ongoing journey that requires consistent effort and self-reflection. By implementing the strategies and best practices outlined in this book, you can develop effective listening skills that will positively impact your professional relationships.
 
 Remember, mastering the art of active listening not only facilitates better understanding and connection at work but also enhances personal growth and fosters a harmonious work environment.
-
-Thank you for joining us on this exploration of active listening. We hope the knowledge gained from this book empowers you to become an exceptional active listener in all aspects of your life.
