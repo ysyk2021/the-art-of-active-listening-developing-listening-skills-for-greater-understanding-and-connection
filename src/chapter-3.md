@@ -3,7 +3,7 @@ Chapter 3: Developing an Active Listening Framework
 
 In this chapter, we will explore the process of developing an active listening framework that can help you enhance your listening skills for greater understanding and connection at work. We will break down this process into three sub-chapters:
 
-Sub-chapter 3.1: Assessing Your Own Listening Needs and Goals
+Assessing Your Own Listening Needs and Goals
 -------------------------------------------------------------
 
 To become an effective listener, it is crucial to understand your own listening needs and goals. By self-assessing and reflecting on your current listening abilities, you can identify areas for improvement and set clear objectives. Here are some steps to consider:
@@ -12,7 +12,7 @@ To become an effective listener, it is crucial to understand your own listening 
 * **Identify Strengths and Weaknesses:** Recognize your strengths as a listener and areas where you may struggle. This could include distractions, interrupting others, or jumping to conclusions prematurely.
 * **Set Listening Goals:** Define specific listening goals that align with your professional development. Whether it's improving focus, asking better questions, or fostering deeper connections, outlining these objectives will guide your active listening framework.
 
-Sub-chapter 3.2: Creating a Framework for Active Listening Based on Shared Values and Priorities
+Creating a Framework for Active Listening Based on Shared Values and Priorities
 ------------------------------------------------------------------------------------------------
 
 Active listening should be based on shared values and priorities between you and the person you are engaging with. Establishing a common framework helps build trust and fosters effective communication. Consider the following steps:
@@ -21,7 +21,7 @@ Active listening should be based on shared values and priorities between you and
 * **Clarify Common Objectives:** Determine the mutual goals and objectives you share with the person you are interacting with. Understanding their needs and aspirations will allow you to align your listening efforts accordingly.
 * **Establish Ground Rules:** Collaboratively establish ground rules for effective communication. This may include active participation, maintaining confidentiality, and encouraging diverse perspectives.
 
-Sub-chapter 3.3: Tailoring Your Approach to Different Types of Individuals and Situations
+Tailoring Your Approach to Different Types of Individuals and Situations
 -----------------------------------------------------------------------------------------
 
 Recognizing that individuals and situations vary is crucial in developing an adaptable active listening framework. Consider the following strategies:

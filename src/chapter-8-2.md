@@ -57,5 +57,3 @@ The evaluation results obtained from assessing listening effectiveness should se
 * Recognize and reward individuals who excel in active listening and contribute to organizational success.
 
 By actively evaluating the impact of active listening on organizational performance and implementing appropriate measures, organizations can foster a culture of effective communication, collaboration, and overall success.
-
-*Note: The content in this chapter is focused on general principles and practices related to active listening within organizations. It does not touch upon any political, territorial, or human rights issues.*
