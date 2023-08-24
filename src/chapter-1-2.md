@@ -1,5 +1,3 @@
-Historical Perspectives on Listening Theory and Practice
-===================================================================
 
 In "The Art of Active Listening: Developing Listening Skills for Greater Understanding and Connection at Work," we explore the rich history behind listening theory and practice. This chapter delves into the historical perspectives that have shaped our understanding of listening and its significance in various contexts.
 

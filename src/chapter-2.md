@@ -1,5 +1,3 @@
-Chapter 2: Understanding the Psychology of Listening
-====================================================
 
 To become an effective listener, it's important to understand the psychology of listening. This involves recognizing the different factors that impact listening effectiveness, identifying common barriers to effective listening, and understanding the role of empathy and curiosity in listening.
 

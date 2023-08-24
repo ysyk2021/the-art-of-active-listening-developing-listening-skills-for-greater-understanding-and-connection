@@ -1,5 +1,3 @@
-Using Data to Continuously Improve Listening Practices
-===================================================================================================================
 
 In this chapter, we will explore the importance of measuring and evaluating listening effectiveness in order to enhance our ability to understand and connect with others at work. By collecting data and employing various evaluation techniques, we can gain valuable insights into our listening skills and identify areas for improvement.
 

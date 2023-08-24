@@ -1,5 +1,3 @@
-Chapter 5: Overcoming Barriers to Effective Listening
-=====================================================
 
 Effective listening can be challenging, with many different barriers that can prevent individuals from fully engaging with the speaker and understanding their message. By identifying and overcoming common barriers to effective listening, individuals can develop stronger listening skills and become more effective communicators.
 

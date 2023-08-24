@@ -1,5 +1,3 @@
-Understanding the Role of Empathy and Curiosity in Listening
-=====================================================================
 
 In this chapter, we will explore the crucial role that empathy and curiosity play in active listening. Empathy allows us to connect with others on a deeper level, while curiosity fosters a genuine desire to understand different perspectives. By cultivating empathy and curiosity, we can enhance our listening skills, promote understanding, and build stronger connections in the workplace.
 

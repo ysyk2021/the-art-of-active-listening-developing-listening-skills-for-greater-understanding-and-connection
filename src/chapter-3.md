@@ -1,5 +1,3 @@
-Chapter 3: Developing an Active Listening Framework
-===================================================
 
 In this chapter, we will explore the process of developing an active listening framework that can help you enhance your listening skills for greater understanding and connection at work. We will break down this process into three sub-chapters:
 

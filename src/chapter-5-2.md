@@ -1,4 +1,3 @@
-# Handling Distractions, Biases, and Emotional Reactions
 
 In this chapter, we will explore strategies for handling common challenges that arise during the active listening process. Specifically, we will focus on dealing with distractions, biases, and emotional reactions that can hinder effective understanding and connection in the workplace.
 

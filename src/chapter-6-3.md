@@ -1,5 +1,3 @@
-Creating a Culture of Open Dialogue and Constructive Feedback
-============================================================================================================
 
 In any workplace, difficult conversations are bound to arise. These discussions can be uncomfortable, challenging, and sometimes even confrontational. However, they also present an opportunity for growth, understanding, and improved relationships if handled effectively.
 

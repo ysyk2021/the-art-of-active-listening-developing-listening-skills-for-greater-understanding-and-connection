@@ -1,5 +1,3 @@
-Chapter 4: Listening with Empathy and Curiosity
-===============================================
 
 In this chapter, we will explore the essential skills of listening with empathy and curiosity. By cultivating these skills, you will be able to establish deeper connections, enhance understanding, and foster positive relationships in your workplace.
 

@@ -1,5 +1,3 @@
-Developing Strategies for Staying Engaged and Focused while Listening
-============================================================================================================================
 
 In this chapter, we will explore various strategies that can help individuals overcome barriers to effective listening. By developing these strategies, you will enhance your ability to stay engaged and focused while listening, thereby improving understanding and connection in the workplace.
 

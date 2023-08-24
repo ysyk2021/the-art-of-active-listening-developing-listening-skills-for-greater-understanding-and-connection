@@ -1,5 +1,3 @@
-Creating a Framework for Active Listening Based on Shared Values and Priorities
-==========================================================================================
 
 In "The Art of Active Listening: Developing Listening Skills for Greater Understanding and Connection at Work," we delve into the importance of active listening in fostering connections and understanding in the workplace. This chapter explores the creation of a framework for active listening by aligning shared values and priorities.
 

@@ -1,5 +1,3 @@
-Establishing Metrics and Benchmarks for Measuring Listening Effectiveness
-======================================================================================================================================
 
 In this chapter, we will explore the importance of measuring and evaluating listening effectiveness in the workplace. We will discuss how establishing metrics and benchmarks can help individuals and organizations enhance their listening skills and improve overall communication.
 

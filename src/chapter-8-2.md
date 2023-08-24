@@ -1,5 +1,3 @@
-Evaluating the Impact of Active Listening on Organizational Performance
-====================================================================================================================================
 
 Listening is a fundamental skill that plays a critical role in enhancing understanding and establishing meaningful connections in the workplace. In this chapter, we will explore the importance of measuring and evaluating listening effectiveness, specifically focusing on how active listening can impact organizational performance.
 

@@ -1,5 +1,3 @@
-Chapter 6: Navigating Difficult Conversations
-=============================================
 
 Understanding the Impact of Difficult Conversations on Listening
 -------------------------------------------------------------------------------

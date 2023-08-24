@@ -1,5 +1,3 @@
-Developing Strategies for Listening with Empathy and Curiosity
-===============================================================================================================
 
 In this chapter, we will explore the importance of listening with empathy and curiosity in developing meaningful connections at work. We will delve into strategies that can enhance these essential qualities, allowing you to become a more effective listener and communicator.
 

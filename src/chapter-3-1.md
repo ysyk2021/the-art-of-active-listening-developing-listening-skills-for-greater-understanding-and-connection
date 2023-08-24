@@ -1,5 +1,3 @@
-Assessing Your Own Listening Needs and Goals
-=======================================================
 
 In "The Art of Active Listening: Developing Listening Skills for Greater Understanding and Connection at Work," we recognize the importance of self-reflection and self-awareness in cultivating effective listening skills. This chapter focuses on assessing your own listening needs and goals to enhance your ability to connect with others and foster understanding in the workplace.
 

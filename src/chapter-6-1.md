@@ -1,5 +1,3 @@
-Understanding the Impact of Difficult Conversations on Listening
-===============================================================================================================
 
 In this chapter, we will explore the intricate relationship between difficult conversations and listening skills. Engaging in challenging discussions can significantly impact our ability to listen effectively and understand others. By recognizing and addressing these impacts, we can enhance our communication skills and build stronger connections at work.
 
